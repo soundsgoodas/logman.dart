@@ -4,13 +4,13 @@ version: 0.0.21
 homepage: https://github.com/Sorcel-Tech/logman.dart
 
 environment:
-  sdk: '>=3.1.0 <4.0.0'
+  sdk: ">=3.1.0 <4.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  intl: ^0.19.0
+  intl: ^0.20.2
   logger: ^2.3.0
 
 dev_dependencies:
@@ -20,5 +20,3 @@ dev_dependencies:
   lint: ^2.1.2
 
 flutter:
-
-
